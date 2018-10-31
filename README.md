@@ -5,6 +5,7 @@
 | Tags | URL |
 | ------ | ------ |
 | CRUD | https://codeburst.io/redux-a-crud-example-abb834d763c9 |
+| useReducer | https://daveceddia.com/usereducer-hook-examples/?utm_source=1031usereducer |
 
 ## Rx:
 
