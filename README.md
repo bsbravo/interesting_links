@@ -18,3 +18,12 @@
 | ------ | ------ |
 | Why? | https://blog.avenuecode.com/an-easy-approach-to-migrating-from-spring-mvc-to-spring-webflux |
 
+## Microservice:
+| Tags | URL |
+| ------ | ------ |
+| eclipse-microprofile | https://blog.payara.fish/building-your-next-microservice-with-eclipse-microprofile |
+
+
+
+
+
