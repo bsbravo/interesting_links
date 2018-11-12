@@ -23,6 +23,11 @@
 | ------ | ------ |
 | eclipse-microprofile | https://blog.payara.fish/building-your-next-microservice-with-eclipse-microprofile |
 
+## Java/Classpath:
+| Tags | URL |
+| ------ | ------ |
+| cp | https://javarevisited.blogspot.com/2012/12/how-classloader-works-in-java.html |
+
 
 
 
