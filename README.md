@@ -17,6 +17,7 @@
 | Tags | URL |
 | ------ | ------ |
 | Why? | https://blog.avenuecode.com/an-easy-approach-to-migrating-from-spring-mvc-to-spring-webflux |
+| Servlet vs. Reactive stacks talk | https://www.infoq.com/presentations/servlet-reactive-stack |
 
 ## Microservice:
 | Tags | URL |
